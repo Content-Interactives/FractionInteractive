@@ -1,4 +1,4 @@
-# Fraction Addition Interactive (`FractionInteractive`)
+# Fraction Addition Interactive
 
 > **Status:** This repo is an **older interactive prototype** and is **not used** in current Content-Interactives curriculum delivery.  
 > **Replacement:** Use the maintained project **[fraction_addition](https://github.com/Content-Interactives/fraction_addition)** — README: https://github.com/Content-Interactives/fraction_addition?tab=readme-ov-file
